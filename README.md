@@ -11,8 +11,8 @@
 ### FitPulse Gym Website
 A responsive gym website with blog system, trainers section, and article pages.
 
-🔗 Live Demo: https:[//yourusername.github.io/fitpulse](https://sanushiemalsha.github.io/FitPulse/)  
-🔗 Repository: https:[//github.com/yourusername/fitpulse](https://github.com/sanushiemalsha/FitPulse/)
+🔗 Live Demo: https:(https://sanushiemalsha.github.io/FitPulse/)  
+🔗 Repository: https:(https://github.com/SanushiEmalsha/FitPulse)
 
 ---
 
